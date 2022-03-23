@@ -1,4 +1,4 @@
-'''
+
 teste = list()
 teste.append('luis')
 teste.append(22)
@@ -11,10 +11,18 @@ print (pessoas)
 
 
 
+
+
+
 galera = [['bruna', 22],['Anderson', 21],['lucia', 10],['mria', 45],['marcio',15],['luis', 50]]
 for p in galera:
     print (f' {p[0]} tem {p[1]} anos de idade.')
-'''  
+ 
+  
+  
+  
+  
+  
     
 todos = list()
 dado = list()
